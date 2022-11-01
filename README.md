@@ -4,7 +4,8 @@
 
 Features
 
-Full featured shopping cart
+• Full featured shopping cart
+
 • Product reviews and ratings
 
 • Top products carousel
@@ -33,8 +34,10 @@ Full featured shopping cart
 Sample User Logins
 
 admin@example.com (Admin)
+
 123456
 
 gusainachint@gmail.com (Customer)
+
 123456
 
