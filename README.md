@@ -31,6 +31,8 @@ Features
 • Database seeder (products & users)
 
 
+
+
 Sample User Logins
 
 admin@example.com (Admin)
